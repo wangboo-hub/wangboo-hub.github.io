@@ -1,6 +1,7 @@
 ---
 title: 文件整理与备份攻略
 author: Yunpei Liu, Yongbin Zhuang
+priority: 9.04
 ---
 
 # 文件整理与备份攻略

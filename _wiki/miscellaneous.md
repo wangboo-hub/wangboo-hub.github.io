@@ -3,7 +3,7 @@ Authors:
   - Yongbin Zhuang
   - Yunpei Liu
   - Jingfang Xiong
-title: 杂项（Miscellaneous）
+title: Miscellaneous
 priority: 100.1
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: gcc 安装教程
 authors: Yunpei Liu
+priority: 10.04
 ---
 
 # gcc 安装教程

@@ -1,7 +1,7 @@
 ---
-title: 如何使用 wiki
-authors: 熊景放
-priority: 0.1
+title:  wiki编辑方法
+authors: admin
+priority: 200.1
 ---
 
 # 如何使用 wiki
@@ -12,7 +12,7 @@ wiki 书写使用 markdown 格式。本 wiki 使用 kramdown 作为 markdown 的
 
 > 文档中带有 `*` 的部分可以略过。
 
-## 对某篇 wiki 内容有疑问
+<!-- ## 对某篇 wiki 内容有疑问
 
 若某篇 wiki 说得不明白或者有错误，可以使用 `Ask a Question` 的功能。
 
@@ -48,7 +48,7 @@ wiki 书写使用 markdown 格式。本 wiki 使用 kramdown 作为 markdown 的
 
 > :warning: 仅推荐 [{{ site.github_user }} 仓库的成员](https://github.com/orgs/{{ site.github_user }}/people) 通过这种方式编辑 wiki。  
 
-鼠标放在标题右侧的省略号上会显示出编辑页面以及提交问题的选项，点击 `Edit this page` 可进入相应的 github 仓库中的文件编辑页面。当然，推荐任何人使用 `Ask a Question` 。
+鼠标放在标题右侧的省略号上会显示出编辑页面以及提交问题的选项，点击 `Edit this page` 可进入相应的 github 仓库中的文件编辑页面。当然，推荐任何人使用 `Ask a Question` 。 -->
 
 ## 如何预览 wiki
 
@@ -69,12 +69,12 @@ wiki 书写使用 markdown 格式。本 wiki 使用 kramdown 作为 markdown 的
 需要关闭数学公式自动添加序号的功能。
 
 ![Screen Shot 2019-11-08 at 21.23.00](https://tva1.sinaimg.cn/large/006y8mN6ly1g8qy7qdjgmj30im0dcgn2.jpg)
-
+<!-- 
 #### 修改图像设置
 
 需要把默认的无特殊操作改为通过 iPic 上传图片，不过在这之前需要 [下载 iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12) 。推荐在 iPic 偏好设置中开启压缩上传图片的选项，这样可以使 wiki 网页加载的速度更快。
 
-![image-20210602152924699](https://cdn.jsdelivr.net/gh/xjf729/FigureBed@master/Imgs/image-20210602152924699.png)
+![image-20210602152924699](https://cdn.jsdelivr.net/gh/xjf729/FigureBed@master/Imgs/image-20210602152924699.png) -->
 
 ### 通过 jekyll 服务*
 
@@ -228,23 +228,6 @@ $$
 $$
 
 若实现给公式编号等功能，可参照 LaTeX 的做法。
-
-#### 化学式与化学反应式
-
-此功能通过 LaTeX 的 mhchem 插件来实现，使用上与数学公式输入相近，都需要通过 `$` 或 `$$` 来标记。
-
-|                          源码                          |                  化学式与化学反应式                  |
-| :----------------------------------------------------: | :--------------------------------------------------: |
-|                    `$\ce{Mg(OH)2}$`                    |                    $\ce{Mg(OH)2}$                    |
-|                    `$\ce{CrO4^2-}$`                    |                    $\ce{CrO4^2-}$                    |
-|                 `$\ce{[Cu(NH3)4]^2+}$`                 |                 $\ce{[Cu(NH3)4]^2+}$                 |
-|                  `$\ce{CoCl2.6H2O}$`                   |                  $\ce{CoCl2.6H2O}$                   |
-|                `$\ce{^{227}_{90}Th+}$`                 |                $\ce{^{227}_{90}Th+}$                 |
-|                    `$\ce{C2H5-OH}$`                    |                    $\ce{C2H5-OH}$                    |
-|                   `$\ce{CH3CH=CH2}$`                   |                   $\ce{CH3CH=CH2}$                   |
-|                     `$\ce{HC#CH}$`                     |                     $\ce{HC#CH}$                     |
-| `$\ce{CaCO3 ->[900\,{}^{\circ}\mathrm{C}] CaO + CO2}$` | $\ce{CaCO3 ->[900\,{}^{\circ}\mathrm{C}] CaO + CO2}$ |
-|       `$\ce{H2PO4- <=>C[OH-][H+] H+ + HPO4^2-}$`       |       $\ce{H2PO4- <=>C[OH-][H+] H+ + HPO4^2-}$       |
 
 #### 上下标
 

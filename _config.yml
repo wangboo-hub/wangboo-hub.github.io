@@ -20,12 +20,12 @@ email: 1315580905@qq.com
 repository: wangboo-hub/wangboo-hub.github.io
 author: wangboo-hub
 description: > # this means to ignore newlines until "baseurl:"
-    This is a wiki website of Chenggroup.
+    This is a wiki website.
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-# url: "https://wiki.cheng-group.net" # the base hostname & protocol for your site
+url: "https://wangboo-hub.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/wangboo-hub/wangboo-hub.github.io" # the repo of web source code 

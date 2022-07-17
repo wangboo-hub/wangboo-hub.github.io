@@ -1,6 +1,7 @@
 ---
-title: Quick Start for Paper Writing（科研写作急速上手）
+title: Quick Start for Paper Writing
 authors: 朱嘉欣
+priority: 20.1
 ---
 
 # Quick Start for Writing
