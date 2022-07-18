@@ -1,7 +1,7 @@
 <!-- ---
 authors: 庄永斌
 title: 书籍推荐
-priority: 11.5
+priority: 10.7
 --- -->
 
 # 推荐书籍一览

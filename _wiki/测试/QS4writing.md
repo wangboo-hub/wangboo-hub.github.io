@@ -1,7 +1,7 @@
 ---
 title: Quick Start for Paper Writing
 authors: 朱嘉欣
-priority: 20.1
+priority: 10.09
 ---
 
 # Quick Start for Writing
