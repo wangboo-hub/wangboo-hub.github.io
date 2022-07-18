@@ -1,8 +1,12 @@
 ---
+
 title: 参考资料
 authors: admin
 priority: 20.1
 ---
+
+
+# 参考资料
 
 ## 计算机系统基础
 
@@ -19,7 +23,6 @@ priority: 20.1
 + [OSTEP] Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/). Arpaci-Dusseau Books, 2018.
 
 + [CSAPP] Randal E. Bryant and David R. O'Hallaron. [Computer Systems: A Programmer's Perspective (3ed)](http://csapp.cs.cmu.edu/3e/home.html). Pearson, 2017.[[部分章节]](https://hansimov.gitbook.io/csapp/), [[习题参考]](https://dreamanddead.github.io/CSAPP-3e-Solutions/)
-
 
 ## 人工智能
 
