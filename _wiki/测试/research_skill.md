@@ -1,7 +1,7 @@
 ---
 title: 研究技能
 authors: 庄永斌
-priority: 25.1
+priority: 10.10
 ---
 
 # 研究技能入门
