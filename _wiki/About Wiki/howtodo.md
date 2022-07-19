@@ -147,6 +147,19 @@ GFM(GitHub Flavored Markdown) 是 github 所使用的 markdown 扩展语法。
 
 :eyeglasses: :+1:
 
+[表情大全](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+#### 删除线
+删除线的语法如下:
+  
+```gfm
+~~被删除内容~~
+```
+
+效果：
+~~被删除内容~~
+
+
 ### Wiki 扩展语法
 
 标注 * 的部分可以不去注意
