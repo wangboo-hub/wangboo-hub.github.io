@@ -67,7 +67,11 @@ fixedNav: true # true or false
 permalink: /:categories/:title/ 
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor, Gemfile, Gemfile.lock, .idea]
-
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
 # Collections
 collections:
   wiki:
