@@ -1,7 +1,7 @@
 ---
 title: SSH 与 SCP 使用入门
 authors: 庄永斌
-priority: 1.02
+priority: 9.08
 ---
 
 # SSH 使用入门
