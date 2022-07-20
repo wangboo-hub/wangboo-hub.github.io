@@ -14,10 +14,12 @@ priority: 2.12
 git config --global user.name "Your Name"
 git config --global user.email "email@example.com"
 ```
+
 >注意`git config`命令的`--global`参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址，即去掉`--global`。
+
 ## Git基础命令
 ### 创建一个新的 git 仓库
-创建一个新的 git 仓库，其数据会存放在一个名为 .git 的目录下
+创建一个新的 `git` 仓库，其数据会存放在一个名为 `.git` 的目录下
 ```bash
 git init
 ```
